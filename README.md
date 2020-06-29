@@ -14,7 +14,7 @@ After visualization was complete, cleansing and further preprocessing was initia
 Building the model was fairly straight forward. The data was split into test and training datasets. A linear regression model was trained on the training dataset. After training, the model was applied to the test dataset where it proved to be an accurate model.
 
 ## Results
-The model proved to be accurate in predicting a persons weight based on the variables that were inputted. 
+The model proved to be accurate in predicting a persons weight based on the variables that were inputted.
 
 
 
